@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90005
 ## Version: v1.0
 ## Title: ShutupToys
 ShutupToys.lua
